@@ -1,0 +1,24 @@
+1) FIPS codes:
+  a) States: https://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code
+  b) Counties: https://en.wikipedia.org/wiki/List_of_United_States_FIPS_codes_by_county
+
+2) US Census data:
+  a) Discontinued XLS: https://www.census.gov/support/USACdataDownloads.html
+     i) Headers description: https://www.census.gov/support/USACdata.html
+  b) Modern APIs: https://www.census.gov/developers/
+
+3) US Dept of Argiculture data:
+  a) XLS: https://www.ers.usda.gov/data-products/county-level-data-sets/
+
+4) Non official datasets:
+  a) Some RStudio data: https://github.com/Deleetdk/USA.county.data
+  b) A website to browse: http://www.statsamerica.org/USCP/
+  c) Health data: http://www.healthdata.org/us-county-profiles
+
+5) LOL, some bullshit:
+  a) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4697692/
+     > Calculations indicated average distances between the electric
+     > force dipole of the brains or bodies of human beings generate
+     > forces known to affect DNA extension and when distributed over
+     > the Compton wavelength of the electron could produce energies
+     > sufficient to affect the binding of base nucleotides.
