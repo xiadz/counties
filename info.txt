@@ -3,9 +3,9 @@
   b) Counties: https://en.wikipedia.org/wiki/List_of_United_States_FIPS_codes_by_county
 
 2) US Census data:
-  a) Discontinued XLS: https://www.census.gov/support/USACdataDownloads.html
+  a) Modern APIs: https://www.census.gov/developers/
+  b) Discontinued XLS: https://www.census.gov/support/USACdataDownloads.html
      i) Headers description: https://www.census.gov/support/USACdata.html
-  b) Modern APIs: https://www.census.gov/developers/
 
 3) US Dept of Argiculture data:
   a) XLS: https://www.ers.usda.gov/data-products/county-level-data-sets/
