@@ -4,6 +4,9 @@
 
 2) US Census data:
   a) Modern APIs: https://www.census.gov/developers/
+     i) Should be all I need
+     ii) There's good documentation.
+     iii) Python wrapper: https://pypi.org/project/census/0.5/
   b) Discontinued XLS: https://www.census.gov/support/USACdataDownloads.html
      i) Headers description: https://www.census.gov/support/USACdata.html
 
