@@ -14,7 +14,6 @@ def app_fips():
     states = list(us.STATES)
     return dict(states=states)
 
-
 @app.get('/static/<filepath:path>')
 def app_static(filepath):
     return bottle.static_file(filepath, root='static/')
